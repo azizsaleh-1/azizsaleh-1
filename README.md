@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aziz, an <a href="[https://linkedin.com/in/Aziz](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BnBo1dW0VSaCMipnFU3iPOg%3D%3D)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aziz, an <a href="[https://linkedin.com/in/aziz-saleh-a47620271/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
