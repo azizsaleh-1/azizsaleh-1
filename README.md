@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/aziz-saleh-a47620271/)
+[linkedin]: [https://linkedin.com/in/Aziz](https://www.linkedin.com/in/aziz-saleh-a47620271/)
