@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aziz, an <a href="aziz-saleh-bba1a7257">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aziz, an IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
